@@ -1,0 +1,9 @@
+pandas
+datasets
+litellm
+langfuse<3
+sacremoses
+tenacity
+evaluate
+sacrebleu
+sentencepiece
